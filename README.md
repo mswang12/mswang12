@@ -1,6 +1,10 @@
 ### Hi there 👋
 
-In my [AI Blog's repo](https://github.com/mswang12/Blog), I learn about and explore new and exciting AI technologies.
+In my [AI Blog's repo](https://github.com/mswang12/Blog), I learn about and explore new and exciting AI technologies
+
+- 🌱 I’m currently learning about new topics in Reinforcement Learning, Natural Language Processing, and Computer Vision
+- 📫 How to reach me: deepganteam@gmail.com
+- ⚡ Fun fact: I love cats
 
 <!--
 **mswang12/mswang12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
