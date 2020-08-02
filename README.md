@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-In my AI Blog's repo(https://github.com/mswang12/Blog), I learn about and explore new and exciting AI technologies.
+In my [AI Blog's repo](https://github.com/mswang12/Blog), I learn about and explore new and exciting AI technologies.
 
 <!--
 **mswang12/mswang12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
