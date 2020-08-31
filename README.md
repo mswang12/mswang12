@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-In my [AI Blog's repo](https://github.com/mswang12/Blog), I learn about and explore new and exciting AI technologies
+In my [AI Blog's repo](https://github.com/mswang12/Blog), I learn about and explore new and exciting topics in AI and Neuroscience
 
 - 🌱 I’m currently learning about new topics in Reinforcement Learning, Natural Language Processing, and Computer Vision
 - 👯 I’m looking to collaborate on applying AI to socially beneficial projects
