@@ -2,7 +2,7 @@
 
 In my [AI Blog's repo](https://github.com/mswang12/Blog), I learn about and explore new and exciting topics in AI and Neuroscience
 
-- 🌱 I’m currently learning about new topics in Reinforcement Learning, Natural Language Processing, and Computer Vision
+- 🌱 I’m currently learning about new topics in Reinforcement Learning, Natural Language Processing, Computer Vision, and Neuroscience
 - 👯 I’m looking to collaborate on applying AI to socially beneficial projects
 - ⚡ Fun fact: I love cats
 - :movie_camera: Movies I like: Pirates of the Caribbean
