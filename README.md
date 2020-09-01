@@ -6,7 +6,7 @@ In my [AI Blog's repo](https://github.com/mswang12/Blog), I learn about and expl
 - 👯 I’m looking to collaborate on applying AI to socially beneficial projects
 - ⚡ Fun fact: I love cats
 - :movie_camera: Movies I like: Pirates of the Caribbean
-- 🤔 I’m looking for help with learning about Neuroscience
+- ✨ I’m looking for help with learning about Neuroscience
 
 <!--
 **mswang12/mswang12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
