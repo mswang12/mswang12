@@ -4,9 +4,9 @@
 
 - 🌱 I’m currently learning about new topics in Reinforcement Learning, Natural Language Processing, Computer Vision, and Neuroscience
 - 👯 I’m looking to collaborate on applying AI to socially beneficial projects
-- ⚡ Fun fact: I love cats
+- :cat2: Fun fact: I love cats
 - :movie_camera: Movies I like: Pirates of the Caribbean
-- :star: I’m looking for help with learning about Neuroscience
+- :palm_tree: I’m looking for help with learning about Neuroscience
 
 <!--
 **mswang12/mswang12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
