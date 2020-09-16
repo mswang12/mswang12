@@ -1,4 +1,4 @@
-## Hi there 👋
+# Hi there 👋
 
 :star2: In my [AI Blog's repo](https://github.com/mswang12/Blog), I learn about and explore new and exciting topics in AI and Neuroscience
 
