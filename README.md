@@ -1,15 +1,14 @@
 # Hi there 👋
-
-## Blog and Writing
-- :star2: In my [AI Blog's repo](https://github.com/mswang12/Blog), I learn about and explore new and exciting topics in AI and Neuroscience
-- :zap: [My Medium Blog](https://medium.com/@mswang12)
-
-## About
 - 🌱 I’m currently learning about new topics in Reinforcement Learning, Natural Language Processing, Computer Vision, and Neuroscience
 - 👯 I’m looking to collaborate on applying AI to socially beneficial projects
 - :cat2: Fun fact: I love cats
 - :movie_camera: Movies I like: Pirates of the Caribbean
 - :palm_tree: I’m looking for help with learning about Neuroscience
+
+## Blog and Writing
+- :star2: In my [AI Blog's repo](https://github.com/mswang12/Blog), I learn about and explore new and exciting topics in AI and Neuroscience
+- :zap: [My Medium Blog](https://medium.com/@mswang12)
+
 
 <!--
 **mswang12/mswang12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
