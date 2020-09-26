@@ -16,7 +16,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mswang12)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Repositories that I contribute to
-[![Blog Repo](https://github-readme-stats.vercel.app/api/pin/?username=mswang12&repo=Blog&show_owner=true)](https://github.com/mswang12/Blog)
+[![Blog Repo](https://github-readme-stats.vercel.app/api/pin/?username=mswang12&repo=Blog)](https://github.com/mswang12/Blog)
 [![DeepLearningDemos Repo](https://github-readme-stats.vercel.app/api/pin/?username=wileyw&repo=DeepLearningDemos&show_owner=true)](https://github.com/wileyw/DeepLearningDemos)
 
 <!--
