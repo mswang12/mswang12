@@ -12,7 +12,7 @@
 - :palm_tree: I’m looking for help with learning about Neuroscience
 
 ### GitHub Stats
-[![Github stats](https://github-readme-stats.vercel.app/api?username=mswang12&hide=contribs&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Github stats](https://github-readme-stats.vercel.app/api?username=mswang12&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mswang12)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
