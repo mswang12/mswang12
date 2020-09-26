@@ -11,13 +11,14 @@
 - :movie_camera: Movies I like: Pirates of the Caribbean
 - :palm_tree: I’m looking for help with learning about Neuroscience
 
+### Repositories that I contribute to
+[![Blog Repo](https://github-readme-stats.vercel.app/api/pin/?username=mswang12&repo=Blog)](https://github.com/mswang12/Blog)
+[![DeepLearningDemos Repo](https://github-readme-stats.vercel.app/api/pin/?username=wileyw&repo=DeepLearningDemos&show_owner=true)](https://github.com/wileyw/DeepLearningDemos)
+
 ### GitHub Stats
 [![Github stats](https://github-readme-stats.vercel.app/api?username=mswang12&show_icons=true&line_height=27)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mswang12)](https://github.com/anuraghazra/github-readme-stats)
 
-### Repositories that I contribute to
-[![Blog Repo](https://github-readme-stats.vercel.app/api/pin/?username=mswang12&repo=Blog&theme=vue)](https://github.com/mswang12/Blog)
-[![DeepLearningDemos Repo](https://github-readme-stats.vercel.app/api/pin/?username=wileyw&repo=DeepLearningDemos&show_owner=true&theme=vue)](https://github.com/wileyw/DeepLearningDemos)
 
 <!--
 **mswang12/mswang12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
