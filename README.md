@@ -17,7 +17,7 @@
 
 ### Repositories
 [![Blog Repo](https://github-readme-stats.vercel.app/api/pin/?username=mswang12&repo=Blog)](https://github.com/anuraghazra/github-readme-stats)
-[![DeepLearningDemos Repo](https://github-readme-stats.vercel.app/api/pin/?username=wileyw&repo=DeepLearningDemos&line_height=40)](https://github.com/anuraghazra/github-readme-stats)
+[![DeepLearningDemos Repo](https://github-readme-stats.vercel.app/api/pin/?username=wileyw&repo=DeepLearningDemos)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **mswang12/mswang12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
