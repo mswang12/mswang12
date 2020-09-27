@@ -17,7 +17,7 @@
 
 ### GitHub Stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mswang12)](https://github.com/anuraghazra/github-readme-stats)
-[![Github stats](https://github-readme-stats.vercel.app/api?username=mswang12&show_icons=true&line_height=27&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Github stats](https://github-readme-stats.vercel.app/api?username=mswang12&show_icons=true&line_height=27&include_all_commits=true&hide_rank=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
