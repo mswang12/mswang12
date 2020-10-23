@@ -2,7 +2,7 @@
 
 ### Blog and Writing
 - :star2: In my [AI Blog's repo](https://github.com/mswang12/Blog), I learn about and explore new and exciting topics in AI and Neuroscience
-- :zap: You can find my articles on my [Medium Blog](https://medium.com/@mswang12) where I write about new topics in AI
+- :zap: You can find my articles on my [Medium Blog](https://medium.com/@mike-12) where I write about new topics in AI
 
 ### Interests
 - 🌱 I’m currently learning about new topics in Reinforcement Learning, Natural Language Processing, Computer Vision, and Neuroscience
