@@ -20,7 +20,7 @@
 [![Github stats](https://github-readme-stats.vercel.app/api?username=mswang12&show_icons=true&line_height=27&include_all_commits=true&hide_rank=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ### About Me
-I'm an AI Engineer and Blogger who enjoys learning and writing about topics in Artificial Intelligence and Machine Learning
+- I'm an AI Engineer and Blogger who enjoys learning and writing about topics in Artificial Intelligence and Machine Learning
 
 
 <!--
