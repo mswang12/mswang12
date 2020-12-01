@@ -11,7 +11,7 @@
 - :movie_camera: Movies I like: Pirates of the Caribbean
 - :palm_tree: I’m looking for help with learning about Neuroscience
 
-### Repositories that I contribute to
+### Repositories that I'm currently contributing to
 [![Blog Repo](https://github-readme-stats.vercel.app/api/pin/?username=mswang12&repo=Blog)](https://github.com/mswang12/Blog)
 [![DeepLearningDemos Repo](https://github-readme-stats.vercel.app/api/pin/?username=wileyw&repo=DeepLearningDemos&show_owner=true)](https://github.com/wileyw/DeepLearningDemos)
 
