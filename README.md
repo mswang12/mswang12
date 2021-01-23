@@ -2,7 +2,7 @@
 
 ### Blog and Writing
 - :zap: You can find my articles on my [Medium Blog](https://medium.com/@mike-12) where I write about new topics in AI
-- :star: I'm also a member of the DeepGANTeam and you can read our articles [here](https://medium.com/@deepganteam)
+- :star: I'm also a member of the DeepGANTeam and you can find our writing [here](https://medium.com/@deepganteam)
 
 ### Interests
 - 🌱 I’m currently learning about new topics in Reinforcement Learning, Natural Language Processing, Computer Vision, and Neuroscience
