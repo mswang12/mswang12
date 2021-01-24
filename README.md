@@ -1,7 +1,7 @@
 # Hi there 👋
 
 ### Blog and Writing
-- :zap: You can find my articles on my [Medium Blog](https://medium.com/@mike-12) where I write about new topics in AI
+- :zap: You can find my articles on my [Personal Blog](https://medium.com/@mike-12) where I write about new topics in AI
 - :star: I'm also a member of and contribute to the collaborative [DeepGANTeam Blog](https://deepganteam.medium.com/)
 
 ### Interests
