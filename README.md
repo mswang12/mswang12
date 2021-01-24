@@ -2,7 +2,7 @@
 
 ### Blog and Writing
 - :zap: You can find my articles on my [Personal Blog](https://medium.com/@mike-12) where I write about new topics in AI
-- :star: I'm also a member of and contribute to the collaborative [DeepGANTeam Blog](https://deepganteam.medium.com/)
+- :star2: I'm also a member of and contribute to the collaborative [DeepGANTeam Blog](https://deepganteam.medium.com/)
 
 ### Interests
 - 🌱 I’m currently learning about new topics in Reinforcement Learning, Natural Language Processing, Computer Vision, and Neuroscience
@@ -12,7 +12,7 @@
 - :palm_tree: I’m looking for help with learning about Neuroscience
 
 ### Repositories that I'm currently contributing to
-- :star2: In my [AI Blog's repo](https://github.com/mswang12/Blog), I learn about and explore new and exciting topics in AI
+- :star: In my [AI Blog's repo](https://github.com/mswang12/Blog), I learn about and explore new and exciting topics in AI
 
 [![Blog Repo](https://github-readme-stats.vercel.app/api/pin/?username=mswang12&repo=Blog)](https://github.com/mswang12/Blog)
 [![DeepLearningDemos Repo](https://github-readme-stats.vercel.app/api/pin/?username=wileyw&repo=DeepLearningDemos&show_owner=true)](https://github.com/wileyw/DeepLearningDemos)
