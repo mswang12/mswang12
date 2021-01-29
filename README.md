@@ -5,7 +5,7 @@
 - :star2: I'm also a member of and contribute to the collaborative [DeepGANTeam Blog](https://deepganteam.medium.com/)
 
 ### Interests
-- 🌱 I’m currently learning about new topics in Reinforcement Learning, Natural Language Processing, Computer Vision, and Neuroscience
+- 🌱 I’m currently learning about new topics in Reinforcement Learning, Natural Language Processing, and Computer Vision
 - 👯 I’m looking to collaborate on applying AI to socially beneficial projects
 - :cat2: Fun fact: I love cats
 - :movie_camera: Movies I like: Pirates of the Caribbean
