@@ -13,7 +13,10 @@
 - :palm_tree: I’m looking for help with learning about Neuroscience
 -->
 
+<!--
 ### Repositories that I'm currently contributing to
+-->
+
 <!--
 - :star: In my [AI Blog's repo](https://github.com/mswang12/Blog), I learn about and explore new and exciting topics in AI
 -->
