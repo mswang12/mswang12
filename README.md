@@ -9,6 +9,7 @@
 - 👯 I’m looking to collaborate on applying AI to socially beneficial projects
 - :cat2: Fun fact: I love cats
 - :movie_camera: Movies I like: Pirates of the Caribbean
+<!--
 - :palm_tree: I’m looking for help with learning about Neuroscience
 
 ### Repositories that I'm currently contributing to
@@ -16,6 +17,7 @@
 
 [![Blog Repo](https://github-readme-stats.vercel.app/api/pin/?username=mswang12&repo=Blog)](https://github.com/mswang12/Blog)
 [![DeepLearningDemos Repo](https://github-readme-stats.vercel.app/api/pin/?username=wileyw&repo=DeepLearningDemos&show_owner=true)](https://github.com/wileyw/DeepLearningDemos)
+-->
 
 ### GitHub Stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mswang12)](https://github.com/anuraghazra/github-readme-stats)
