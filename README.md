@@ -6,7 +6,6 @@
 ### Interests
 - 🌱 I’m currently learning about new topics in Reinforcement Learning, Natural Language Processing, and Computer Vision
 - 👯 I’m looking to collaborate on applying AI to socially beneficial projects
-- :cat2: Fun fact: I love cats
 - :movie_camera: Movies I like: Pirates of the Caribbean
 <!--
 - :palm_tree: I’m looking for help with learning about Neuroscience
